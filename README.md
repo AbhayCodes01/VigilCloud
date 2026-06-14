@@ -2,10 +2,6 @@
 
 AI-powered real-time hazard detection for Indian highways using camera vision + IoT sensors.
 
-## 🔴 Live Demo
-- **Dashboard:** [add Vercel link here]
-- **Demo Video:** [add YouTube link here]
-
 ## 🧠 What it does
 - Detects potholes, fog, fire, stalled vehicles on NH-44 in real time
 - YOLOv8 computer vision model trained on 665 labelled road images
